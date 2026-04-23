@@ -6,4 +6,4 @@
 # pyinstaller -i icon/icons.ico -D -F -w Main.py
 PySide6==6.6.1
 requests==2.31.0
-lxml==5.1.0
+lxml==6.1.0
